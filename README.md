@@ -20,7 +20,7 @@ Shellcode runner inspired by Taco Bell <br>
 
 
 # Shout-outs
-Big shout-out to my man [Mike Mallen](https://x.com/MallenSec), couldn't have made this without him and his expert NSA TAO Equation Dark Ops level red teaming skillz!<br>
+Big shout-out to my man [Mike Mallen](https://x.com/MallenSec), couldn't have made this without him and his expert NSA TAO Equation Group Dark Ops level red teaming skillz!<br>
 
 # Disclaimer
 FOR EDUCATIONAL PURPOSES ONLY!!
