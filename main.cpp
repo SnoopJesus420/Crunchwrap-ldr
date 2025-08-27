@@ -1,3 +1,4 @@
+// Author SnoopJesus420
 #include <iostream>
 #include <map>
 #include <vector>
@@ -5,9 +6,7 @@
 #include <algorithm>
 #include <random>
 #include <Windows.h>
-//#include <winternl.h>
 #include "dorritos_locos.h"
-//#include <ntdef.h>
 
 // Define NTSTATUS and status codes
 #ifndef NTSTATUS
